@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mail Box
+* source:	https://sketchfab.com/3d-models/mail-box-b303c8523e3446f09a543af8ac69b1b0
+* author:	XOIAL (https://sketchfab.com/XOIAL)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mail Box" (https://sketchfab.com/3d-models/mail-box-b303c8523e3446f09a543af8ac69b1b0) by XOIAL (https://sketchfab.com/XOIAL) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

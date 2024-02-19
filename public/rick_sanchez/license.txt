@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rick Sanchez
+* source:	https://sketchfab.com/3d-models/rick-sanchez-96ca1fef5125435aa4dc08290c4ded13
+* author:	Héctor Flores "Toro" (https://sketchfab.com/mystiquecape)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rick Sanchez" (https://sketchfab.com/3d-models/rick-sanchez-96ca1fef5125435aa4dc08290c4ded13) by Héctor Flores "Toro" (https://sketchfab.com/mystiquecape) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
