@@ -28,7 +28,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import metro from "./company/metro.png";
-import ibb from "./company/ibb.png";
+import ibb from "./company/ibb.png";  
 
 import carrent from "./carrent.png";
 import foodordering from "./food-ordering.png";
