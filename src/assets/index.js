@@ -27,7 +27,6 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import metro from "./company/metro.png";
 import ibb from "./company/ibb.png";  
 
 import carrent from "./carrent.png";
@@ -45,7 +44,6 @@ export {
   instagram,
   ibb,
   foodordering,
-  metro,
   logo,
   e,
   egemen,
