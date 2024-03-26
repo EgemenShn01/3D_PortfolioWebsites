@@ -12,9 +12,12 @@ import {
     tailwind,
     nodejs,
     mongodb,
+    alone,
     git,
     figma,
     docker,
+    Metro,
+    corporate,
     meta,
     starbucks,
     tesla,
@@ -22,6 +25,7 @@ import {
     carrent,
     jobit,
     tripguide,
+    refine,
     threejs,
     // metro,
     ibb,
@@ -129,20 +133,20 @@ import {
   ];
   
   const experiences = [
-   
-    // {
-    //   title: "Software Developer ",
-    //   company_name: "Metro Istanbul",
-    //   icon: metro,
-    //   iconBg: "#383E56",
-    //   date: "September 2020 - June 2021",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+    {
+      title: "Software Developer Intern",  
+      company_name: "Metro Istabul Headquarters",
+      icon: Metro,
+      iconBg: "#383E56",
+      date: "September 2020 - June 2021",
+      points: [
+        "Utilized ASP.NET MVC architecture, C#, and SQL/T-SQL skills in developing and maintaining web applications.",
+        "Collaborated with designers, product managers, and other developers to create high-quality products.",
+        "Implemented responsive design principles and ensured browser compatibility to enhance user experience.",
+        "Participated in code reviews and provided constructive feedback to fellow developers.",
+      ],
+    },
+  
         {
       title: "Front-End Developer Intern",  
       company_name: "The Istanbul Metropolitan Municipality",
@@ -154,6 +158,19 @@ import {
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
+      ],
+    },
+          {
+      title: "Front-End Developer Intern",  
+      company_name: "Alone Software Technology",
+      icon: alone,
+      iconBg: "#383E56",
+      date: "February 2024 - June 2024",
+      points: [
+        "Creating and managing web applications utilizing PHP, React.js, and associated libraries such as Vite.",
+        "Working closely with designers, product managers, and fellow developers to deliver top-notch products.",
+        "Enforcing responsive design principles and guaranteeing compatibility across various browsers.",
+        "Engaging in code evaluations and offering valuable insights to enhance team performance.",
       ],
     },
 
@@ -192,7 +209,7 @@ import {
     {
       name: "Istanbul Lıne Information",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "You will be able to see the line and time information of the vehicles in Istanbul (Metro-Metrobus-Ferry-Tram-Bus-Marmaray) on the map.",
       tags: [
      
         {
@@ -212,9 +229,9 @@ import {
       source_code_link: "https://github.com/EgemenShn01",
     },
     {
-      name: "Job IT",
+      name: "Food Ordering",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "This website allows you to order food quickly and easily. You can easily navigate through the menu and customize your preferences with its user-friendly interface.",
       tags: [
         {
           name: "react",
@@ -237,24 +254,49 @@ import {
       source_code_link: "https://github.com/EgemenShn01",
     },
     {
-      name: "Trip Guide",
+      name: "Refine Clone Websites",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "I developed refine.com using React, Vite, and Tailwind CSS. This project is a clone website that incorporates multiple libraries for its functionality and design.",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Vite",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: refine,
+      source_code_link: "https://github.com/EgemenShn01",
+    },
+     {
+      name: "Corporate Company Websites",
+      description:
+        "This corporate website project is written in PHP and utilizes the PHPMailer library for email functionality. It is developed to provide customized solutions for businesses.",
+      tags: [
+        {
+          name: "PHP",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "ajax",
           color: "green-text-gradient",
         },
         {
           name: "css",
           color: "pink-text-gradient",
         },
+        {
+          name: "mysql",
+          color: "blue-text-gradient",
+        },
       ],
-      image: tripguide,
+      image: corporate,
       source_code_link: "https://github.com/EgemenShn01",
     },
   ];

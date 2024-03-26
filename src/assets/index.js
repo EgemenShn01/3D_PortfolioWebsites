@@ -37,8 +37,16 @@ import tripguide from "./tripguide.png";
 import instagram from "./INSTAGRAM.png";
 import lingkedin from "./LINGKEDIN.png";
 import whatsapp from "./WHATSAPP.png";
+import refine from "./refine.png";
+import corporate from "./corporate.png";
+import alone from "./alone.png";
+import Metro from "./Metro.png";
 
 export {
+  alone,
+  Metro,
+  corporate,
+  refine,
   whatsapp,
   lingkedin,
   instagram,
