@@ -33,8 +33,8 @@ import {
     foodordering,
     instagram,
     lingkedin,
-    whatsapp
-
+    whatsapp,
+    truyemek
   } from "../assets";
   
   export const navLinks = [
@@ -64,7 +64,7 @@ import {
       icon: web,
     },
     {
-      title: "Database Developer",
+      title: "Mobile Developer",
       icon: mobile,
     },
     {
@@ -134,49 +134,59 @@ import {
   
   const experiences = [
     {
-      title: "Software Developer Intern",  
-      company_name: "Metro Istabul Headquarters",
+      title: "Software Developer Intern",
+      company_name: "Metro Istanbul Headquarters",
       icon: Metro,
       iconBg: "#383E56",
-      date: "September 2020 - June 2021",
+      date: "September 2021 - June 2022",
       points: [
-        "Utilized ASP.NET MVC architecture, C#, and SQL/T-SQL skills in developing and maintaining web applications.",
-        "Collaborated with designers, product managers, and other developers to create high-quality products.",
-        "Implemented responsive design principles and ensured browser compatibility to enhance user experience.",
-        "Participated in code reviews and provided constructive feedback to fellow developers.",
+        "Built responsive web pages using HTML, CSS, JavaScript, and ASP.NET.",
       ],
     },
-  
-        {
-      title: "Front-End Developer Intern",  
-      company_name: "The Istanbul Metropolitan Municipality",
+    {
+      title: "Front-End Developer Intern",
+      company_name: "IBB IT Department",
       icon: ibb,
       iconBg: "#383E56",
       date: "June 2023 - September 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed scalable features using React.js, Next.js, and Vite.",
+        "Focused on fast build times and hot-reloading.",
+        "Ensured responsive UI with Tailwind CSS.",
       ],
     },
-          {
-      title: "Front-End Developer Intern",  
-      company_name: "Alone Software Technology",
+    {
+      title: "Front-End Developer Intern",
+      company_name: "Alone Software Teknoloji",
       icon: alone,
       iconBg: "#383E56",
-      date: "February 2024 - June 2024",
+      date: "January 2024 - July 2024",
       points: [
-        "Creating and managing web applications utilizing PHP, React.js, and associated libraries such as Vite.",
-        "Working closely with designers, product managers, and fellow developers to deliver top-notch products.",
-        "Enforcing responsive design principles and guaranteeing compatibility across various browsers.",
-        "Engaging in code evaluations and offering valuable insights to enhance team performance.",
+        "Built responsive web applications using React.js and Next.js.",
+        "Leveraged SSR and SSG features of Next.js for performance and SEO.",
+        "Wrote reusable, strongly-typed components with TypeScript.",
+        "Applied Context API and Redux Toolkit for state management.",
+        "Designed UIs with Tailwind CSS and SCSS.",
+        "Deployed apps using Vercel and AWS.",
       ],
     },
-
-  
-    
+    {
+      title: "Frontend Developer",
+      company_name: "TurreYemek",
+      icon: truyemek,
+      iconBg: "#383E56",
+      date: "July 2024 - Present",
+      points: [
+        "Developed mobile applications using React Native, focusing on performance and usability.",
+        "Managed state effectively with Redux and optimized component rendering.",
+        "Integrated RESTful APIs using Axios for secure client-server communication.",
+        "Designed CRM dashboards for admin and customer panels using Vue.js.",
+        "Created dynamic data visualizations with ApexCharts for business analytics.",
+        "Participated in Agile sprints and team code reviews.",
+      ],
+    },
   ];
+  
   
   const testimonials = [
     {

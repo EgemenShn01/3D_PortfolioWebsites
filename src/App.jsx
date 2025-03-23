@@ -1,6 +1,10 @@
 import { BrowserRouter} from "react-router-dom";
 import {About ,Contact  , Experience , Feedbacks ,
 Hero , Navbar , Tech , Works , StarsCanvas,Footer} from './components'
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+
 
 const App = () =>{
   return (
@@ -24,8 +28,21 @@ const App = () =>{
           <StarsCanvas/>
       </div>
        <Footer/>
-    </div>
+      </div>
+            <ToastContainer
+            position="top-right"
+            autoClose={3000}
+            hideProgressBar={false}
+            newestOnTop={false}
+            closeOnClick
+            rtl={false}
+            pauseOnFocusLoss
+            draggable
+            pauseOnHover
+            theme="colored"
+            />
         </BrowserRouter>
+        
   )
 };
 

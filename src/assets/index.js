@@ -28,6 +28,8 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import ibb from "./company/ibb.png";  
+import truyemek from "./company/truyemek.png";
+
 
 import carrent from "./carrent.png";
 import foodordering from "./food-ordering.png";
@@ -45,6 +47,7 @@ import Metro from "./Metro.png";
 export {
   alone,
   Metro,
+  truyemek,
   corporate,
   refine,
   whatsapp,
